@@ -6,7 +6,9 @@
 
 - 💻 I love writing code in **C++ & Python**
 - 🌱 I’m currently learning **Algoritms & ML**
-- 🔭 I’m working on: 
+- 🔭 I’m working on:
+[![bohsauro](https://img.shields.io/badge/Discord-bohsauro-5865F2?logo=discord&logoColor=white)](https://discord.com/users/726193122597535876)
+
 
 
 ---
